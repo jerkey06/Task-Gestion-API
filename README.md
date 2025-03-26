@@ -71,4 +71,4 @@ Navega a `/swagger` cuando la aplicación esté en ejecución para ver la docume
 - Implementación de logging
 
 ## 👨‍💻 Autor
-[Tu Nombre]
+Emiliano(jerkey)
