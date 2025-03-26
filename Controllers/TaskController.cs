@@ -1,4 +1,5 @@
 ﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
@@ -48,7 +49,7 @@ public class TaskController : ControllerBase
     }
 
     [HttpPut("{id}")]
-    public async Task<IActionResult> PutTask(int id, Task, task)
+    public async Task<IActionResult> PutTask(int id, Task task)
     {
         if (id != task.Id)
         {
@@ -90,5 +91,10 @@ public class TaskController : ControllerBase
         await _context.SaveChangesAsync();
         
         return NoContent();
+    }
+
+    private bool TaskExists(int id)
+    {
+        return _context.Tasks.Any(e => e.Id == id);
     }
 }

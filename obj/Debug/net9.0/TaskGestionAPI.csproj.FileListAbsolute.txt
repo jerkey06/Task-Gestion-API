@@ -5,3 +5,4 @@ C:\dev\Projects\backend\TaskGestionAPI\obj\Debug\net9.0\TaskGestionAPI.AssemblyI
 C:\dev\Projects\backend\TaskGestionAPI\obj\Debug\net9.0\TaskGestionAPI.csproj.CoreCompileInputs.cache
 C:\dev\Projects\backend\TaskGestionAPI\obj\Debug\net9.0\TaskGestionAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\dev\Projects\backend\TaskGestionAPI\obj\Debug\net9.0\TaskGestionAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\Projects\backend\TaskGestionAPI\obj\Debug\net9.0\TaskGestionAPI.sourcelink.json

@@ -6,7 +6,7 @@ using Microsoft.Extensions.Hosting;
 
 var builder = WebApplication.CreateBuilder(args);
 
-builder.Services.AddDbContext<TareaContext>(options =>
+builder.Services.AddDbContext<TaskContext>(options =>
     options.UseInMemoryDatabase("TaskList"));
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
@@ -26,4 +26,4 @@ app.UseAuthorization();
 
 app.MapControllers();
 
-app.Run();"TaskList"));
+app.Run();
