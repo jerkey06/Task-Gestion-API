@@ -1,0 +1,7 @@
+C:\dev\Projects\backend\TaskGestionAPI\obj\Debug\net9.0\TaskGestionAPI.csproj.AssemblyReference.cache
+C:\dev\Projects\backend\TaskGestionAPI\obj\Debug\net9.0\TaskGestionAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Projects\backend\TaskGestionAPI\obj\Debug\net9.0\TaskGestionAPI.AssemblyInfoInputs.cache
+C:\dev\Projects\backend\TaskGestionAPI\obj\Debug\net9.0\TaskGestionAPI.AssemblyInfo.cs
+C:\dev\Projects\backend\TaskGestionAPI\obj\Debug\net9.0\TaskGestionAPI.csproj.CoreCompileInputs.cache
+C:\dev\Projects\backend\TaskGestionAPI\obj\Debug\net9.0\TaskGestionAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\dev\Projects\backend\TaskGestionAPI\obj\Debug\net9.0\TaskGestionAPI.MvcApplicationPartsAssemblyInfo.cache
