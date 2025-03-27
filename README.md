@@ -26,7 +26,7 @@ TaskGestionAPI es una API RESTful desarrollada con .NET 9 para la gestión de ta
 
 ### Clonar el Repositorio
 ```bash
-git clone https://github.com/jerkey06/TaskGestionAPI.git
+git clone https://github.com/jerkey06/Task-Gestion-API.git
 cd TaskGestionAPI
 ```
 
