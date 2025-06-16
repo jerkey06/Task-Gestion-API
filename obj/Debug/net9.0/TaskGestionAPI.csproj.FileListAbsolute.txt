@@ -6,3 +6,11 @@ C:\dev\Projects\backend\TaskGestionAPI\obj\Debug\net9.0\TaskGestionAPI.csproj.Co
 C:\dev\Projects\backend\TaskGestionAPI\obj\Debug\net9.0\TaskGestionAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\dev\Projects\backend\TaskGestionAPI\obj\Debug\net9.0\TaskGestionAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\dev\Projects\backend\TaskGestionAPI\obj\Debug\net9.0\TaskGestionAPI.sourcelink.json
+C:\Users\ponce\RiderProjects\Task-Gestion-API\obj\Debug\net9.0\TaskGestionAPI.csproj.AssemblyReference.cache
+C:\Users\ponce\RiderProjects\Task-Gestion-API\obj\Debug\net9.0\TaskGestionAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ponce\RiderProjects\Task-Gestion-API\obj\Debug\net9.0\TaskGestionAPI.AssemblyInfoInputs.cache
+C:\Users\ponce\RiderProjects\Task-Gestion-API\obj\Debug\net9.0\TaskGestionAPI.AssemblyInfo.cs
+C:\Users\ponce\RiderProjects\Task-Gestion-API\obj\Debug\net9.0\TaskGestionAPI.csproj.CoreCompileInputs.cache
+C:\Users\ponce\RiderProjects\Task-Gestion-API\obj\Debug\net9.0\TaskGestionAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ponce\RiderProjects\Task-Gestion-API\obj\Debug\net9.0\TaskGestionAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ponce\RiderProjects\Task-Gestion-API\obj\Debug\net9.0\TaskGestionAPI.sourcelink.json
